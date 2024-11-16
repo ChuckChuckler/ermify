@@ -1,8 +1,8 @@
 # ermify
 
 ## What it does
-It's a simple Flask application that just makes all your text the "british people when you say"
-Like the "British people when you say "trick or treat" instead of "ludicrous tomfoolery or delectable sweets""
+It's a simple Flask application that just makes all your text the "british people when you say".
+Like the "British people when you say "trick or treat" instead of "ludicrous tomfoolery or delectable sweets"".
 For example, if you input "Where are you?" it'll return "Could I perchance be enlightened with information regarding your whereabouts?" 
 
 ## How to use it
