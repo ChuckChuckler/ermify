@@ -1,0 +1,72 @@
+body{
+    background-color: #2F2F2F;
+}
+
+h1{
+    color: #A7CDBD;
+    text-align: center;
+    font-size: 5vw;
+    text-decoration: 2px underline solid;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 900;
+}
+
+textarea{
+    width: 50%;
+    display: block;
+    margin: auto;
+    height: 40%;
+}
+
+textarea:active{
+    width: 51%;
+    height: 41%;
+}
+
+.container{
+    margin: auto;
+    text-align: center;
+}
+
+button{
+    background-color: #BBE1C3;
+    color: #567568;
+    width: 30%;
+    height: 10%;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #567568;
+    font-family: "Playfair Display SC", serif;
+    font-weight: 400;
+    font-size: 200%;
+}
+
+button:hover{
+    background-color: #567568;
+    color: #BBE1C3;
+    width: 31%;
+    height: 11%;
+    border-color: #BBE1C3;
+}
+
+h3{
+    color: #BBE1C3;
+    text-align: center;
+    width: 70%;
+    display: block;
+    margin: auto;
+    font-family: "Courier Prime", monospace;
+    font-weight: 400;
+}
+
+img{
+    border-style: double;
+    border-color: #567568;
+    width: 30vw;
+    height: 25vw;
+}
+
+img:hover{
+    width: 31vw;
+    height: 26vw;
+}
